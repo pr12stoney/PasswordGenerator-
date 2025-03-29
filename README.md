@@ -1,1 +1,1 @@
-This is a random password generator in javasc. try it today 
+This is a random password generator in JavaScript. try it today 
